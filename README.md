@@ -1,17 +1,20 @@
 # Scarif_CTC
 
-Placeholder Lorem Ipsum and about
+All Public repos for the submission, 
+MIT License for all mentioned repos.
 
 
 ## Backend
-[Github Repo]
+https://github.com/swissDAO-labs/sol_nest
 
 ## Webapp
 
-## Cloud
+## CLoud AI
+https://github.com/swissDAO-labs/ai-backend
 
-## Smart Contracts
 
-### Solana
+### Solana Program
+https://github.com/swissDAO-labs/scarif_protocol
 
-### EVM 
+### ZK
+https://github.com/swissDAO-labs/zk-proof
